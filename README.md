@@ -13,6 +13,6 @@
 
 ## ♟ My Activity
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsamirdevone&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsamirdevone&hide_progress=true)](https://github.com/rsamirdevone/pro_unity_academy)
+
 ## 📱 Socials:
 [![Telegram](https://img.shields.io/static/v1?label&message=Telegram&color=090909&?style=for-the-badge&logo=Telegram&logoColor=3A98B9)](https://t.me/fullstackdevone)
