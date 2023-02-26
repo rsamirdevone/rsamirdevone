@@ -3,7 +3,7 @@
 ## Hi 👋, my name is Samir, I'm 17 years old, I'm a beginner Software Engineer
 
 
-## 💻 Langues and Tools
+## 💻 Languages and Tools
 ![Flutter](https://img.shields.io/static/v1?label&message=Flutter&color=090909&?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![Dart](https://img.shields.io/static/v1?label&message=Dart&color=090909&?style=for-the-badge&logo=Dart&logoColor=097CDB)
 ![Python](https://img.shields.io/static/v1?label&message=Python&color=090909&?style=for-the-badge&logo=Python&logoColor=)
